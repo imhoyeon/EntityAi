@@ -1,0 +1,4 @@
+name: EntityAi
+version: '${version}'
+main: me.shy.entityai.EntityAi
+api-version: '1.20'
